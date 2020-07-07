@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Hasan Baygül"]
 date = 2020-07-06T21:00:00Z
 excerpt = "Merhaba Dünya"
 hero = ""
