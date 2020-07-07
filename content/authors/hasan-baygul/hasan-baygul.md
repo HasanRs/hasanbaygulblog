@@ -1,11 +1,10 @@
 +++
 avatar = ""
 bio = "a hobbiest writer"
-draft = true
 featured = true
 title = "Hasan Baygül"
 [[social]]
-title = "Instagram"
+title = "instagram"
 url = "http://instagram.com/hasanbaygl"
 
 +++
