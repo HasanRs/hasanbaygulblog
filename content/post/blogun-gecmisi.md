@@ -21,4 +21,4 @@ Hızla büyüyen ve ciddi bir akım haline gelen blog dünyasında, İnternetin 
 
 Son olarak 2007 yılında da, Tim O'Reilly Blogger's Code of Conduct fikrini ortaya atmıştır.
 
-> Kaynak: Wikipedia
+    Kaynak: Wikipedia
