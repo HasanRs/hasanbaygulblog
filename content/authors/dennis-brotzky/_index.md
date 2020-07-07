@@ -1,20 +1,10 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+title: Hasan Baygül
+bio: a hobbiest writer
 avatar: "/images/dennis-brotzky.jpg"
-featured: false
+featured: true
 social:
-- title: unsplash
-  url: https://unsplash.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
+- title: instagram
+  url: http://instagram.com/hasanbaygl
 
 ---
