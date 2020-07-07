@@ -1,8 +1,8 @@
 +++
-authors = []
+authors = ["Hasan Baygül", "Dennis Brotzky"]
 date = 2020-07-06T21:00:00Z
 excerpt = "Merhaba Dünya"
-hero = "/images/favicon.svg"
+hero = ""
 timeToRead = 2
 title = "Merhaba Dünya"
 
