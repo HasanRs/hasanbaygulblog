@@ -9,6 +9,10 @@
     <article  id="articleContent" class="post-content" style="position:relative;">
         {{ .Content }}
     </article>
+
+    {{ partial "article/next.html" . }}
+</section>
+
     
     <div id="disqus_thread"></div>
     <script>
@@ -26,11 +30,6 @@
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
-
-
-    {{ partial "article/next.html" . }}
-</section>
 
 {{ $script := resources.Get "js/progressBar.js" }}
  <script src="{{ $script.RelPermalink }}"></script>
