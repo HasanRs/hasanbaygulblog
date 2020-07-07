@@ -6,5 +6,7 @@ featured: true
 social:
 - title: instagram
   url: http://instagram.com/hasanbaygl
+- title: spotify
+  url: http://spotify.com
 
 ---
