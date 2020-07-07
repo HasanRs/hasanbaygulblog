@@ -1,6 +1,6 @@
 +++
 authors = ["hasan-baygul"]
-date = 2020-07-07T18:00:00Z
+date = 2020-07-07T12:00:00Z
 excerpt = "deneme"
 hero = "/images/6f2d34fe6c8746c56c14fbc55308ef99.jpg"
 timeToRead = 4
