@@ -1,4 +1,4 @@
-baseURL: "http://baygul.tk"
+baseURL: "http://hasan.baygul.tk"
 languageCode: "en-us"
 title: "hasan' s blog"
 pygmentsstyle: 'monokai'
@@ -13,5 +13,6 @@ social:
   linkedin: "#"
   dribbble: "#"
   youtube: "#"
+  spotify: "#"
 taxonomies:
   author: authors
