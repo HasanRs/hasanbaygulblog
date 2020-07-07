@@ -41,6 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
-- content/post/123.html
 - content/post/blogun-gecmisi.md
 - content/post/merhaba-dunya.md
