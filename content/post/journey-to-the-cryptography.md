@@ -11,8 +11,6 @@ Imagine that two people who share an important secret have to leave. So they nee
 
 > A new problem arises in the twentieth century. What if Ayşe and Berk never come together to share the key?
 
-![](/images/469d66b4-4cb0-452f-a68e-b70c0b15c5a0.jpg "Probability")
-
 Let me talk about some basic principles.
 
 For a given event A, probability p (A) is represented by a number ranging from 0 to 1. For an impossible event, the probability is 0 and the probability of an event that will happen is 1.
