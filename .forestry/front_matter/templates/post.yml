@@ -42,6 +42,5 @@ fields:
   label: Authors
 pages:
 - content/post/blogun-gecmisi.md
-- content/post/deneme.md
 - content/post/journey-to-the-cryptography.md
 - content/post/merhaba-dunya.md
