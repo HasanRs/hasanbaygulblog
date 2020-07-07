@@ -1,10 +1,10 @@
 +++
-authors = ["Hasan Baygül"]
+authors = []
 date = 2020-07-06T21:00:00Z
 excerpt = "Merhaba Dünya"
 hero = ""
 timeToRead = 2
-title = "Merhaba Dünya"
+title = "Merhaba Dünya v2"
 
 +++
 Merhaba Dünya
