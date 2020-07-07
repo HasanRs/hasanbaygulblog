@@ -2,7 +2,7 @@
 authors = ["hasan-baygul"]
 date = 2020-06-20T19:45:00Z
 excerpt = "Blogların içeriği geleneksel internet içeriğinden farklılık gösterdiği için sadece bloglar için kurulmuş özel indeksleme mekanizmaları ve arama motorları bulunmaktadır. Technorati en başarılı blog teknolojilerinden biridir."
-hero = "/images/thought-catalog-505eectw54k-unsplash-1.jpg"
+hero = "/images/thought-catalog-505eectw54k-unsplash-2.jpg"
 timeToRead = 5
 title = "Bloğun Geçmişi"
 
