@@ -10,7 +10,5 @@ social:
   url: "#"
 - title: instagram
   url: http://instagram.com/hasanbaygl
-- title: youtube
-  url: "#"
 
 ---
