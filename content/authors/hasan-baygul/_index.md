@@ -1,7 +1,9 @@
 ---
 title: Hasan Baygül
-bio: A hobbyist writer.
-avatar: "/images/97527821_159696725571716_2746676066222389271_n-1.jpg"
+bio: |-
+  A hobbyist writer.
+  mail: hasan-can_59@hotmail.com
+avatar: "/images/107905028_636908050258984_3907153086820267882_n.jpg"
 featured: true
 social:
 - title: spotify
