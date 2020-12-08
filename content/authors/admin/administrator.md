@@ -1,7 +1,6 @@
 +++
-avatar = ""
+avatar = "/images/e77eetckule11.png"
 bio = "just admin"
-draft = true
 featured = false
 title = "Administrator"
 [[social]]
