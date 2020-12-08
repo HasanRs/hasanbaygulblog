@@ -1,8 +1,6 @@
 ---
 title: Hasan Baygül
-bio: |-
-  A hobbyist writer.
-  mail: hasan-can_59@hotmail.com
+bio: A hobbyist writer.
 avatar: "/images/107905028_636908050258984_3907153086820267882_n.jpg"
 featured: true
 social:
