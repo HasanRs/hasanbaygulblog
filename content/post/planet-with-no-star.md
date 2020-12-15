@@ -17,6 +17,5 @@ I end my speech with a famous quote from Mustafa Kemal Atatürk.
 
 > “The future is in the skies.”
 
-> Source
->
-> [Wikiwand](http://www.wikiwand.com/en/PSO_J318.5%E2%88%9222 "Wikiwand")
+    Source
+    www.wikiwand.com/en/PSO_J318.5%E2%88%9222
