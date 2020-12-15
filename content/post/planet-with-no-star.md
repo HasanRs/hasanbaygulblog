@@ -2,7 +2,7 @@
 authors = ["hasan-baygul"]
 date = 2020-12-14T21:00:00Z
 excerpt = "Imagine a place where nightlife never ends. It's such a place that the fun never ends. They even receive plenty of visitors from neighboring planets..."
-hero = "/images/john-towner-7rlipxtr6oi-unsplash.jpg"
+hero = "/images/ssss.jpg"
 timeToRead = 2
 title = "Planet with No Star"
 
