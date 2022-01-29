@@ -1,7 +1,6 @@
 +++
 authors = ["hasanbaygul"]
 date = 2022-01-28T21:00:00Z
-draft = true
 excerpt = "welcome-polyfolio"
 hero = "/images/logo-with-background.png"
 timeToRead = 1
