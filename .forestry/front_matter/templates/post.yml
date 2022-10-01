@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/how-to-get-github-profile-achievements.md
 - content/post/journey-to-the-cryptography.md
 - content/post/merhaba-dunya.md
 - content/post/planet-with-no-star.md
