@@ -15,7 +15,7 @@ We are also using this opportunity to introduce a new Achievements section to th
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
-| Pair Extraordinaire |  | ✔️ | Coauthored in a merged pull request |
+| Pair Extraordinaire | https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png | ✔️ | Coauthored in a merged pull request |
 | Quickdraw |  | ✔️ | Closed an issue or a pull request within 5 min of opening |
 | Starstruck |  | ✔️ | Created a repository that has 16 stars |
 |  |  |  |  |
