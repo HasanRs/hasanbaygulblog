@@ -17,15 +17,15 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipe
 
 ## How to get these Aachievements?
 
-    Pair Extraordinaire: Coauthored in a merged pull request
-    Quickdraw: Closed an issue or a pull request within 5 min of opening
-    Starstruck: Created a repository that has 16 stars
-    Galaxy Brain: 2 accepted answers
-    Pull Shark: 2 pull requests merged
-    YOLO: Merged a pull request without code review
-    Arctic Code Vault Contributor: Contributed code to repositories in the 2020 GitHub Archive Program
-    Public Sponsor: Sponsoring open source work via GitHub Sponsors
-    Mars 2020 Contributor: Contributed code to repositories used in the Mars 2020 Helicopter Mission
+_Pair Extraordinaire:_ Coauthored in a merged pull request
+_Quickdraw:_ Closed an issue or a pull request within 5 min of opening
+_Starstruck:_ Created a repository that has 16 stars
+_Galaxy Brain:_ 2 accepted answers
+_Pull Shark:_ 2 pull requests merged
+_YOLO:_ Merged a pull request without code review
+_Arctic Code Vault Contributor:_ Contributed code to repositories in the 2020 GitHub Archive Program
+_Public Sponsor:_ Sponsoring open source work via GitHub Sponsors
+_Mars 2020 Contributor:_ Contributed code to repositories used in the Mars 2020 Helicopter Mission
 
 ## Some achievements have tiers
 
@@ -41,7 +41,7 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipe
 
 From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
 
-    - GitHub Sponsor
-    + Public Sponsor
-    - Mars 2020 Helicopter Contributor
-    + Mars 2020 Contributor
+_- GitHub Sponsor
+\+ Public Sponsor
+\- Mars 2020 Helicopter Contributor
+\+ Mars 2020 Contributor_
