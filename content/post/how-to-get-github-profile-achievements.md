@@ -18,13 +18,21 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipe
 ## How to get these Aachievements?
 
 _Pair Extraordinaire:_ Coauthored in a merged pull request
+
 _Quickdraw:_ Closed an issue or a pull request within 5 min of opening
+
 _Starstruck:_ Created a repository that has 16 stars
+
 _Galaxy Brain:_ 2 accepted answers
+
 _Pull Shark:_ 2 pull requests merged
+
 _YOLO:_ Merged a pull request without code review
+
 _Arctic Code Vault Contributor:_ Contributed code to repositories in the 2020 GitHub Archive Program
+
 _Public Sponsor:_ Sponsoring open source work via GitHub Sponsors
+
 _Mars 2020 Contributor:_ Contributed code to repositories used in the Mars 2020 Helicopter Mission
 
 ## Some achievements have tiers
@@ -41,7 +49,10 @@ _Mars 2020 Contributor:_ Contributed code to repositories used in the Mars 2020 
 
 From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
 
-_- GitHub Sponsor
-\+ Public Sponsor
-\- Mars 2020 Helicopter Contributor
-\+ Mars 2020 Contributor_
+_- GitHub Sponsor_
+
+_+ Public Sponsor_ 
+
+_- Mars 2020 Helicopter Contributor_ 
+
+_+ Mars 2020 Contributor_
